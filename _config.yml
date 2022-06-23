@@ -14,7 +14,9 @@
 ## => Site Settings
 ##############################
 text_skin: "ocean" # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin_alt: "dark"
+highlight_theme: "tomorrow" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+highlight_theme_alt: "tomorrow-night-blue"
 # url: "https://username.github.io"
 # baseurl: /baseurl # does not include hostname
 title: 12.345 Subject

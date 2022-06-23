@@ -15,7 +15,31 @@
 {%- include head/favicon.html -%}
 
 {%- include snippets/prepend-baseurl.html path='/assets/css/main.css' -%}
-<link rel="stylesheet" href="{{ __return }}">
+<link rel="stylesheet" href="{{ __return }}" id="theme_source">
+
+{% if site.text_skin_alt %}
+  <meta name="color-scheme" content="light dark">
+  <style>
+    @import url("{{ '/assets/css/alternate.css' | relative_url }}") (prefers-color-scheme: dark);
+  </style>
+  <!-- <link rel="stylesheet_alternate" href="{{ '/assets/css/alternate.css' | relative_url }}" id="theme_source_alt">
+  <script>
+    let theme = sessionStorage.getItem('theme');
+    if(theme === "dark")
+    {
+      sessionStorage.setItem('theme', 'dark');
+      node1 = document.getElementById('theme_source');
+      node2 = document.getElementById('theme_source_alt');
+      node1.setAttribute('rel', 'stylesheet_alternate'); 
+      node2.setAttribute('rel', 'stylesheet');
+    }
+    else
+    {
+      sessionStorage.setItem('theme', 'light');
+    }
+  </script> -->
+{% endif %}
+
 
 {%- include snippets/get-sources.html -%}
 {%- assign _sources = __return -%}
