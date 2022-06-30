@@ -20,6 +20,8 @@ Replace the .svg file inside `/_includes/svg/logo.svg` with the same name.
 ## Custom CSS
 Add any custom sass styling in `/_sass/custom.scss`
 
+Custom bold `strong` color can be modified in `custom.scss`
+
 ## Custom html for articles
 Add any additional elements in `/_includes/article/footer/custom.html`. You may also add it at `/_includes/article/top/custom.html` if you want it to execute first. 
 Current added features:

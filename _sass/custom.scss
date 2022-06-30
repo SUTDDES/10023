@@ -1,4 +1,9 @@
 /* start custom scss snippet */
+
+strong {
+  color: $main-color-2;
+}
+
 .btnScrollToTop {       
   opacity: 0;   
   width: 40px;
@@ -28,6 +33,12 @@
     margin-right: auto;
   }
   
+.center_ninety {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .center_seventy {
   display: block;
   margin-left: auto;
