@@ -7,7 +7,7 @@ aside:
   toc: true
 ---
 
-This is a sample homepage. Below you can find various styles.
+This is a **sample** homepage. Below you can find various styles.
 
 
 Success!
