@@ -35,12 +35,15 @@ Find the rate law and the value of the rate constant for this reaction.
 ![caption](/10023/assets/images/week2/3.jpg)
 
 
+
 **2.** The decomposition of N2O5 to NO2 and O2 is first order, with a rate constant of 4.80 x 10-4sec-1 at 45°C.
 
 1. If the initial concentration is 1.65 x 10-2 mol/L, what is the concentration after 825s?
 2. How long would it take for the concentration of N2O5 to decrease to 1.00 x 10-2 mol/L from its initial value given in (a)?
 
-![](RackMultipart20220712-1-dyq3i4_html_482a7d3653f6594e.gif) ![](RackMultipart20220712-1-dyq3i4_html_869b32f5f1d3944e.gif)
+<img src="/10023/assets/images/week2/2.jpg"  class="center_seventy"/>
+
+
 
 **3.** Cyclopropane, C3H6, is converted to its isomer propylene, CH2=CHCH3, when heated. The rate law is first order in cyclopropane, and the rate constant is 6.0 x 10-4/s at 500°C. If the initial concentration of cyclopropane is 0.0226 mol/L, what is the concentration after 899 s?
 
