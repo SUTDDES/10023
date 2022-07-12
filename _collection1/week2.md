@@ -32,6 +32,9 @@ SS ILP Chemistry and Biology - Kinetics
 Find the rate law and the value of the rate constant for this reaction.
  ![](/10023/assets/images/week2/2.jpg)
 
+![caption](/10023/assets/images/week2/3.jpg)
+
+
 **2.** The decomposition of N2O5 to NO2 and O2 is first order, with a rate constant of 4.80 x 10-4sec-1 at 45°C.
 
 1. If the initial concentration is 1.65 x 10-2 mol/L, what is the concentration after 825s?
