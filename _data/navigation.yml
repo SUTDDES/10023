@@ -16,6 +16,8 @@ collection1:
     children:
       - title: Quick Start
         url: /collection1/overview
+      - title: Week 2
+        url: /collection1/week-2
 
 collection2:
   - title:
