@@ -66,4 +66,3 @@ NO2Cl + Cl NO2 + Cl2 (fast step)
 3. Identify any reaction intermediate?
 4. What substance can be added to the reaction mixture to give the catalytic activity?
 
-1
