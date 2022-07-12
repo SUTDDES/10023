@@ -48,10 +48,7 @@ author:
   github: # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm: # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
-## => GitHub Repository (if the site is hosted by GitHub), won't be useful if you don't enable _show_edit_on_github
-##############################
-repository: user_name/repo_name
-repository_tree: master
+
 
 ## => Paths
 ##############################
