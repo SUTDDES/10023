@@ -1,7 +1,7 @@
 ---
 title: Week 1
-permalink: /collection1/week-1
-key: collection1-week-1
+permalink: /collection1/week-1a
+key: collection1-week-1a
 layout: article
 nav_key: collection1
 sidebar:
