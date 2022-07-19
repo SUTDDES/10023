@@ -13,10 +13,10 @@ show_edit_on_github: false
 show_date: false
 ---
 
-Test Week1
+DES Test
 
 
-SS ILP Chemistry and Biology - Kinetics
+Week 1
 
 **Practice Questions**
 
