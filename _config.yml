@@ -19,7 +19,7 @@ highlight_theme: "tomorrow" # "default" (default), "tomorrow", "tomorrow-night",
 highlight_theme_alt: "tomorrow-night-blue"
 # url: "https://username.github.io"
 # baseurl: /baseurl # does not include hostname
-title: 12.345 Subject
+title: 10.023 Subject
 description: > # this means to ignore newlines until "Language & timezone"
   Welcome to 10.023 Course Site!
 
