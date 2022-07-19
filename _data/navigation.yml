@@ -18,6 +18,8 @@ collection1:
         url: /collection1/overview
       - title: Week 2
         url: /collection1/week-2
+      - title: Week 1
+        url: /collection1/week-1a
 
 collection2:
   - title:
